@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvRbwcrH2PF/66u1BNC/UY0/EVVYbjJFfAfMq/5vfiZE83T77AVr3Kl6IQ6m4YZCXNcV6eR/8LBZOra0RD5Ceg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fotters\\source\\repos\\wpfka7\\MessengerPR7\\MessengerPR7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fotters\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fotters\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fotters\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
